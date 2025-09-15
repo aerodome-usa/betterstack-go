@@ -1,6 +1,6 @@
-module github.com/sudodeo/betterstack-go
+module github.com/aerodome-usa/betterstack-go
 
-go 1.21.0
+go 1.24.0
 
 require (
 	github.com/joho/godotenv v1.5.1

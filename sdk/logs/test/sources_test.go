@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/sudodeo/betterstack-go/models"
+	"github.com/aerodome-usa/betterstack-go/models"
 )
 
 var (

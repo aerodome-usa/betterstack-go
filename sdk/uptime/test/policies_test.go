@@ -1,9 +1,10 @@
 package uptime_test
 
 import (
-	"github.com/stretchr/testify/assert"
-	"github.com/sudodeo/betterstack-go/models"
 	"testing"
+
+	"github.com/aerodome-usa/betterstack-go/models"
+	"github.com/stretchr/testify/assert"
 )
 
 var policyID string

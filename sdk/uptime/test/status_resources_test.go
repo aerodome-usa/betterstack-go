@@ -4,8 +4,8 @@ import (
 	"strconv"
 	"testing"
 
+	"github.com/aerodome-usa/betterstack-go/models"
 	"github.com/stretchr/testify/assert"
-	"github.com/sudodeo/betterstack-go/models"
 )
 
 var (

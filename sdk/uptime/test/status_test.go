@@ -3,8 +3,8 @@ package uptime_test
 import (
 	"testing"
 
+	"github.com/aerodome-usa/betterstack-go/models"
 	"github.com/stretchr/testify/assert"
-	"github.com/sudodeo/betterstack-go/models"
 )
 
 var statusPageID string
